@@ -1,0 +1,8 @@
+- Show pdf path to which is provided on the command line
+- Allow to open pdf with a dialog
+- Full screen mode
+- Show progress
+- Allow scaling content
+- Remember last opened location, reopen at it
+- Allow to open last 5 files
+- Allow to add to Favorites/remove from Favorites
